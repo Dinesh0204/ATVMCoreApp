@@ -50,16 +50,21 @@ java javaapplication2/ATVM
 
 ## Screenshots
 
-![App Screenshot](https://pasteboard.co/7XNg1Tiy15fI.png)
 
-![App Screenshot](https://pasteboard.co/iEHChw3Mt2DD.png)
-
-![App Screenshot](https://pasteboard.co/qM5cmDExyOtj.png)
-
-![App Screenshot](https://pasteboard.co/006IazrVcUw1.png)
+![image](https://github.com/Dinesh0204/ATVMCoreApp/assets/72650101/fb8d1e9f-82e2-4236-a049-d5ae2cafd2d5)
 
 
-![App Screenshot](https://pasteboard.co/r8bO5747GeH9.png)
+![image](https://github.com/Dinesh0204/ATVMCoreApp/assets/72650101/e0c7e781-3fdd-4b19-905c-77179d655a76)
+
+
+![image](https://github.com/Dinesh0204/ATVMCoreApp/assets/72650101/1e65eb95-e499-432a-9eb9-45c7b34a2d9e)
+
+
+
+![image](https://github.com/Dinesh0204/ATVMCoreApp/assets/72650101/8054bf2d-70c6-4ad5-9cf0-508d1f504d65)
+
+
+![image](https://github.com/Dinesh0204/ATVMCoreApp/assets/72650101/31d84f3d-cd21-4247-9a92-34da9a1ec4ae)
 
 ## Contributing
 
